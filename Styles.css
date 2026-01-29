@@ -1,1 +1,21 @@
-https://github.com/digitalimperialservices-rgb/digital-imperial-services.git
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* WhatsApp Floating Button */
+.whatsapp-float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 30px;
+  line-height: 60px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  z-index: 1000;
+  text-decoration: none;
+}
